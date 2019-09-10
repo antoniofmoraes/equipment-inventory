@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using EquipmentInventory.Models;
+using EquipmentInventory.Models.ViewModels;
 
 namespace EquipmentInventory.Controllers
 {
